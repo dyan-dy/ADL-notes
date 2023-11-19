@@ -2,6 +2,8 @@
 
 # Advanced Deep Learning
 
+DIKU - ADL
+
 ## Lectures
 
 ### Week 1 - Neural Networks
