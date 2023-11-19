@@ -2,7 +2,7 @@
 
 # Advanced Deep Learning
 
-DIKU - ADL learning notes
+ADL learning notes
 
 ## Lectures
 
